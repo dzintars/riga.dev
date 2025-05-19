@@ -1,0 +1,7 @@
+---
+baseURL: 'https://riga.dev/'
+languageCode: 'en-us'
+title: 'riga.dev'
+theme: 'PaperMod'
+enableEmoji: true
+...
